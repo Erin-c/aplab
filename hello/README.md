@@ -1,8 +1,8 @@
 # Hello lab
 
--first
--second
--third
+- first
+- second
+- third
 
 {% next %}
 
